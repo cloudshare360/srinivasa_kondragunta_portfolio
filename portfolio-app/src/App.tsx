@@ -8,7 +8,7 @@ import './App.css'
 
 function App() {
   return (
-    <Router>
+    <Router basename="/srinivasa_kondragunta_portfolio">
       <div className="App">
         <Navigation />
         <main>
