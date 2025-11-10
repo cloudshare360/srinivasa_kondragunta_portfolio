@@ -1,0 +1,10 @@
+{
+  "conversations": [
+    {
+      "id": "c1",
+      "role": "system",
+      "content": "Project assistant tracking tasks and metadata",
+      "timestamp": "2025-11-10T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "user": {
+    "name": "<your name>",
+    "email": "<you@example.com>",
+    "preferences": {
+      "commit_interval_seconds": 300,
+      "build_tool": "npm",
+      "deploy_target": "github-pages"
+    }
+  }
+}

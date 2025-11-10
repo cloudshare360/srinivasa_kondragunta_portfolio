@@ -1,0 +1,12 @@
+{
+  "mcp": {
+    "name": "portfolio-mcp",
+    "version": "0.1",
+    "model": "gpt-like-placeholder",
+    "description": "Model context protocol configuration placeholder",
+    "endpoints": {
+      "embed": "",
+      "completion": ""
+    }
+  }
+}

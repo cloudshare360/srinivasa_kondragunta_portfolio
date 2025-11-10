@@ -1,0 +1,7 @@
+{
+  "rag": {
+    "index": [],
+    "documents": [],
+    "notes": "This file is a placeholder for storing RAG (retrieval-augmented generation) index metadata and pointers to stored documents."
+  }
+}
