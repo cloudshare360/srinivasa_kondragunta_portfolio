@@ -34,6 +34,31 @@ Placeholder agent/meta files live under `.meta/`. These are templates for agent 
 ✅ Build validated: `npm install` and `npm run build` completed successfully  
 ✅ Auto-commit script: syntax validated  
 ✅ Project structure: follows requirements specification  
+✅ Data-driven architecture: JSON files in `src/data/` consumed by React components
+✅ Responsive design: Mobile-first CSS with modern styling
+✅ Client-side routing: React Router with /skills, /projects, /contact pages
+✅ GitHub Pages deployment: Configured with GitHub Actions
+
+## Development workflow
+
+Start development server:
+```bash
+cd portfolio-app
+npm run dev
+# Opens at http://localhost:5173
+```
+
+Deploy to GitHub Pages:
+```bash
+cd portfolio-app
+npm run deploy
+# Or push to main branch (auto-deployed via GitHub Actions)
+```
+
+Data updates:
+- Edit JSON files in `portfolio-app/src/data/` to update content
+- Components automatically load and display updated data
+- No code changes required for content updates
 
 See `requirements.md` for more detailed project requirements and build notes.
 
