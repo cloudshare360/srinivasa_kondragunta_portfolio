@@ -1,38 +1,50 @@
 {
   "categories": [
     {
-      "name": "Programming Languages",
+      "name": "AI & Analytics Tools",
       "skills": [
-        { "name": "Python", "level": "Expert", "years": 8 },
-        { "name": "SQL", "level": "Expert", "years": 10 },
-        { "name": "R", "level": "Advanced", "years": 5 },
-        { "name": "JavaScript", "level": "Intermediate", "years": 3 }
+        { "name": "Generative AI for People Analytics", "level": "Expert", "years": 3 },
+        { "name": "RAG and Prompt Engineering", "level": "Expert", "years": 2 },
+        { "name": "Python & Data Science", "level": "Expert", "years": 8 },
+        { "name": "Predictive Modeling", "level": "Advanced", "years": 6 }
       ]
     },
     {
-      "name": "Data Analysis & BI Tools",
+      "name": "Visualization & BI Tools",
       "skills": [
-        { "name": "Tableau", "level": "Expert", "years": 6 },
-        { "name": "Power BI", "level": "Expert", "years": 5 },
-        { "name": "Excel", "level": "Expert", "years": 12 },
-        { "name": "Looker", "level": "Advanced", "years": 3 }
+        { "name": "Tableau", "level": "Expert", "years": 10 },
+        { "name": "ThoughtSpot", "level": "Expert", "years": 4 },
+        { "name": "Power BI", "level": "Advanced", "years": 5 },
+        { "name": "OBIEE", "level": "Expert", "years": 12 },
+        { "name": "Oracle Data Visualization", "level": "Advanced", "years": 4 }
       ]
     },
     {
-      "name": "Databases",
+      "name": "Cloud Platforms & Big Data",
       "skills": [
-        { "name": "MySQL", "level": "Expert", "years": 8 },
-        { "name": "PostgreSQL", "level": "Advanced", "years": 6 },
-        { "name": "MongoDB", "level": "Intermediate", "years": 2 },
-        { "name": "Oracle", "level": "Advanced", "years": 4 }
+        { "name": "AWS Stack", "level": "Expert", "years": 6 },
+        { "name": "Databricks", "level": "Advanced", "years": 3 },
+        { "name": "Snowflake", "level": "Advanced", "years": 4 },
+        { "name": "Starburst Enterprise", "level": "Advanced", "years": 2 }
       ]
     },
     {
-      "name": "Cloud Platforms",
+      "name": "HR Systems & Databases",
       "skills": [
-        { "name": "AWS", "level": "Advanced", "years": 4 },
-        { "name": "Azure", "level": "Intermediate", "years": 3 },
-        { "name": "Google Cloud", "level": "Beginner", "years": 1 }
+        { "name": "Workday", "level": "Expert", "years": 8 },
+        { "name": "Oracle HCM", "level": "Advanced", "years": 6 },
+        { "name": "SQL & PL/SQL", "level": "Expert", "years": 16 },
+        { "name": "Oracle Database", "level": "Expert", "years": 14 },
+        { "name": "Redshift", "level": "Advanced", "years": 4 }
+      ]
+    },
+    {
+      "name": "ETL/ELT & Data Integration",
+      "skills": [
+        { "name": "Informatica PowerCenter", "level": "Expert", "years": 12 },
+        { "name": "ODI 12C", "level": "Advanced", "years": 8 },
+        { "name": "AWS Glue", "level": "Advanced", "years": 4 },
+        { "name": "Data Warehousing", "level": "Expert", "years": 14 }
       ]
     }
   ]

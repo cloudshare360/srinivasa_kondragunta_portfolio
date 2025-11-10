@@ -21,7 +21,8 @@ const Projects = () => {
       try {
         const project1 = await import('../data/projects/project-1.json')
         const project2 = await import('../data/projects/project-2.json')
-        setProjects([project1.default, project2.default])
+        const project3 = await import('../data/projects/project-3.json')
+        setProjects([project1.default, project2.default, project3.default])
       } catch (error) {
         console.error('Error loading projects:', error)
       }

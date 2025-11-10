@@ -1,15 +1,16 @@
 {
   "id": "project-2",
-  "title": "Inventory Optimization System",
-  "description": "Machine learning-powered system for optimizing inventory levels and reducing waste in retail operations.",
-  "technologies": ["Python", "Scikit-learn", "PostgreSQL", "Power BI"],
-  "duration": "8 months",
+  "title": "Gilead Sciences People Analytics Portal",
+  "description": "Built and scaled comprehensive workforce analytics platform leveraging AWS cloud infrastructure, Tableau visualization, and ThoughtSpot for ad-hoc reporting to enable data-driven HR decision making.",
+  "technologies": ["AWS", "Tableau", "ThoughtSpot", "Redshift", "Starburst Enterprise", "Workday"],
+  "duration": "2018 - 2021",
   "highlights": [
-    "Reduced inventory waste by 25% through predictive analytics",
-    "Improved stock availability by 18%",
-    "Developed automated alerting system for low stock items"
+    "Designed and built workforce analytics modules including Workforce Summary, Plan, Attract, Organize, Diversify, and Retain",
+    "Integrated data pipelines from SAP, Workday, and multiple HR systems into AWS Redshift",
+    "Created comprehensive dashboards for HRLT, Talent Acquisition Leaders, and executive stakeholders",
+    "Implemented data validation processes between Workday and People Analytics Portal"
   ],
   "image": "/images/project2.jpg",
-  "link": "https://github.com/example/inventory-optimization",
+  "link": "https://github.com/example/people-analytics",
   "status": "Completed"
 }

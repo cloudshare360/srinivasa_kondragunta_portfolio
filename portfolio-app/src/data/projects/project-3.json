@@ -1,0 +1,16 @@
+{
+  "id": "project-3",
+  "title": "OBIEE Performance Analytics Platform",
+  "description": "Led development of Oracle Business Intelligence Enterprise Edition (OBIEE) performance analytics platform for pharmaceutical clients, handling prescriber and drug distribution data analytics.",
+  "technologies": ["OBIEE", "Informatica", "Oracle", "SQL", "PL/SQL", "Data Warehousing"],
+  "duration": "2013 - 2017",
+  "highlights": [
+    "Built core analytics product on OBIEE 11g for pharmaceutical clients",
+    "Handled Prescriber, Drug Distribution Data (DDD), and Payer analytics",
+    "Designed and implemented STAR and SNOWFLAKE schema data warehouse models",
+    "Delivered analytics solutions to major pharmaceutical and manufacturing clients"
+  ],
+  "image": "/images/project3.jpg",
+  "link": "https://github.com/example/obiee-analytics",
+  "status": "Completed"
+}

@@ -1,15 +1,15 @@
 {
-  "email": "srinivasa.kondragunta@example.com",
-  "phone": "+1 (555) 123-4567",
-  "linkedin": "https://linkedin.com/in/srinivasa-kondragunta",
+  "email": "Srinivasa.kondragunta@gmail.com",
+  "phone": "+1 408 476 7114",
+  "linkedin": "https://www.linkedin.com/in/srinivasa-kondragunta-b794251b/",
   "github": "https://github.com/srinivasa-kondragunta",
   "location": {
-    "city": "City",
-    "state": "State",
-    "country": "Country"
+    "city": "California",
+    "state": "CA",
+    "country": "USA"
   },
-  "availability": "Open to new opportunities",
+  "availability": "Open to new opportunities in AI, Data Analytics, and Business Intelligence",
   "preferredContact": "email",
-  "workingHours": "9 AM - 6 PM EST",
-  "message": "Feel free to reach out for collaboration opportunities, consulting projects, or just to connect. I'm always interested in discussing data-driven solutions and business intelligence challenges."
+  "workingHours": "9 AM - 6 PM PST",
+  "message": "I'm passionate about leveraging data-driven strategies and cutting-edge AI technologies to solve complex business challenges. With 16+ years of experience in BI solutions and specialization in workforce analytics, I'm always interested in discussing innovative analytics projects, Generative AI applications, and opportunities to drive organizational effectiveness through data insights."
 }

@@ -1,15 +1,16 @@
 {
   "id": "project-1",
-  "title": "Customer Analytics Dashboard",
-  "description": "Comprehensive business intelligence dashboard analyzing customer behavior and sales performance across multiple channels.",
-  "technologies": ["Python", "Tableau", "SQL", "AWS"],
-  "duration": "6 months",
+  "title": "Generative AI People Intelligence Agent (PIA)",
+  "description": "Leading the implementation of a cutting-edge Generative AI People Intelligence Agent at Gilead Sciences, working as Business Analyst and Prompt Engineer to revolutionize HR analytics and workforce insights.",
+  "technologies": ["Generative AI", "Databricks", "AWS", "Python", "Prompt Engineering", "RAG"],
+  "duration": "2021 - Present",
   "highlights": [
-    "Increased sales conversion rate by 15% through data-driven insights",
-    "Automated reporting process, saving 20 hours per week",
-    "Integrated data from 5 different sources into unified dashboard"
+    "Part of team implementing new Generative AI People Intelligence Agent (PIA)",
+    "Working on Business Analysis and Prompt Engineering for AI-powered HR platforms",
+    "Led scaling of HR Analytics projects using advanced AI technologies",
+    "Developed automated insights for workforce planning and employee engagement"
   ],
   "image": "/images/project1.jpg",
-  "link": "https://github.com/example/customer-analytics",
-  "status": "Completed"
+  "link": "https://github.com/example/pia-project",
+  "status": "In Progress"
 }
