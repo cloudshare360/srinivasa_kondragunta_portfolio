@@ -31,12 +31,23 @@ jobs:
         cache-dependency-path: portfolio-app/package-lock.json
         
     - name: Setup Pages
-      uses: actions/configure-pages@v3
+      uses: actions/configure-pages@v4
       
+    - name: Cache build output
+      uses: actions/cache@v3
+      with:
+        path: |
+          portfolio-app/dist
+          portfolio-app/node_modules/.vite
+        key: build-${{ runner.os }}-${{ hashFiles('portfolio-app/package-lock.json') }}-${{ hashFiles('portfolio-app/src/**/*') }}
+        restore-keys: |
+          build-${{ runner.os }}-${{ hashFiles('portfolio-app/package-lock.json') }}-
+          build-${{ runner.os }}-
+        
     - name: Install dependencies
       run: |
         cd portfolio-app
-        npm ci
+        npm ci --prefer-offline --no-audit
         
     - name: Build
       run: |
@@ -44,7 +55,7 @@ jobs:
         npm run build
         
     - name: Upload artifact
-      uses: actions/upload-pages-artifact@v2
+      uses: actions/upload-pages-artifact@v3
       with:
         path: ./portfolio-app/dist
 
@@ -57,4 +68,4 @@ jobs:
     steps:
     - name: Deploy to GitHub Pages
       id: deployment
-      uses: actions/deploy-pages@v2
+      uses: actions/deploy-pages@v4
