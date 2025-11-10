@@ -9,12 +9,18 @@ export default defineConfig({
     outDir: 'dist',
     assetsDir: 'assets',
     sourcemap: false,
+    minify: 'esbuild',
     rollupOptions: {
       output: {
         manualChunks: {
-          vendor: ['react', 'react-dom', 'react-router-dom']
+          vendor: ['react', 'react-dom'],
+          router: ['react-router-dom']
         }
       }
     }
+  },
+  server: {
+    host: true,
+    port: 5173
   }
 })
