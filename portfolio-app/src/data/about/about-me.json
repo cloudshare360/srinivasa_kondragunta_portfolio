@@ -1,0 +1,19 @@
+{
+  "name": "Srinivasa Kondragunta",
+  "title": "Senior Business Data System Analyst",
+  "summary": "Experienced data analyst with expertise in business intelligence, system optimization, and data-driven decision making. Passionate about transforming complex data into actionable insights.",
+  "location": "Location TBD",
+  "email": "contact@example.com",
+  "profileImage": "/images/profile.jpg",
+  "bio": [
+    "Senior Business Data System Analyst with extensive experience in data analysis, business intelligence, and system optimization.",
+    "Proven track record of delivering data-driven solutions that improve business processes and drive strategic decision-making.",
+    "Skilled in various analytical tools and technologies with a focus on translating complex data into actionable business insights."
+  ],
+  "highlights": [
+    "10+ years of experience in data analysis and business intelligence",
+    "Expert in SQL, Python, and various BI tools",
+    "Strong background in system analysis and process optimization",
+    "Proven ability to work with cross-functional teams"
+  ]
+}

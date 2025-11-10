@@ -1,0 +1,15 @@
+{
+  "email": "srinivasa.kondragunta@example.com",
+  "phone": "+1 (555) 123-4567",
+  "linkedin": "https://linkedin.com/in/srinivasa-kondragunta",
+  "github": "https://github.com/srinivasa-kondragunta",
+  "location": {
+    "city": "City",
+    "state": "State",
+    "country": "Country"
+  },
+  "availability": "Open to new opportunities",
+  "preferredContact": "email",
+  "workingHours": "9 AM - 6 PM EST",
+  "message": "Feel free to reach out for collaboration opportunities, consulting projects, or just to connect. I'm always interested in discussing data-driven solutions and business intelligence challenges."
+}

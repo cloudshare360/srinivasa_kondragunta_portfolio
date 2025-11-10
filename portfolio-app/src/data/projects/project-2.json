@@ -1,0 +1,15 @@
+{
+  "id": "project-2",
+  "title": "Inventory Optimization System",
+  "description": "Machine learning-powered system for optimizing inventory levels and reducing waste in retail operations.",
+  "technologies": ["Python", "Scikit-learn", "PostgreSQL", "Power BI"],
+  "duration": "8 months",
+  "highlights": [
+    "Reduced inventory waste by 25% through predictive analytics",
+    "Improved stock availability by 18%",
+    "Developed automated alerting system for low stock items"
+  ],
+  "image": "/images/project2.jpg",
+  "link": "https://github.com/example/inventory-optimization",
+  "status": "Completed"
+}

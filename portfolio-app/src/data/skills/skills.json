@@ -1,0 +1,39 @@
+{
+  "categories": [
+    {
+      "name": "Programming Languages",
+      "skills": [
+        { "name": "Python", "level": "Expert", "years": 8 },
+        { "name": "SQL", "level": "Expert", "years": 10 },
+        { "name": "R", "level": "Advanced", "years": 5 },
+        { "name": "JavaScript", "level": "Intermediate", "years": 3 }
+      ]
+    },
+    {
+      "name": "Data Analysis & BI Tools",
+      "skills": [
+        { "name": "Tableau", "level": "Expert", "years": 6 },
+        { "name": "Power BI", "level": "Expert", "years": 5 },
+        { "name": "Excel", "level": "Expert", "years": 12 },
+        { "name": "Looker", "level": "Advanced", "years": 3 }
+      ]
+    },
+    {
+      "name": "Databases",
+      "skills": [
+        { "name": "MySQL", "level": "Expert", "years": 8 },
+        { "name": "PostgreSQL", "level": "Advanced", "years": 6 },
+        { "name": "MongoDB", "level": "Intermediate", "years": 2 },
+        { "name": "Oracle", "level": "Advanced", "years": 4 }
+      ]
+    },
+    {
+      "name": "Cloud Platforms",
+      "skills": [
+        { "name": "AWS", "level": "Advanced", "years": 4 },
+        { "name": "Azure", "level": "Intermediate", "years": 3 },
+        { "name": "Google Cloud", "level": "Beginner", "years": 1 }
+      ]
+    }
+  ]
+}

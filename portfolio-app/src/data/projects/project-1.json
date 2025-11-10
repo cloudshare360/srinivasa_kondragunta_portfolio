@@ -1,0 +1,15 @@
+{
+  "id": "project-1",
+  "title": "Customer Analytics Dashboard",
+  "description": "Comprehensive business intelligence dashboard analyzing customer behavior and sales performance across multiple channels.",
+  "technologies": ["Python", "Tableau", "SQL", "AWS"],
+  "duration": "6 months",
+  "highlights": [
+    "Increased sales conversion rate by 15% through data-driven insights",
+    "Automated reporting process, saving 20 hours per week",
+    "Integrated data from 5 different sources into unified dashboard"
+  ],
+  "image": "/images/project1.jpg",
+  "link": "https://github.com/example/customer-analytics",
+  "status": "Completed"
+}
