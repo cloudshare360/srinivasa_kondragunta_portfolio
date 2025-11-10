@@ -1,0 +1,12 @@
+{
+  "agent": "portfolio-agent",
+  "last_updated": "2025-11-10T00:00:00Z",
+  "memories": [
+    {
+      "id": "m1",
+      "type": "preference",
+      "content": "prefers Vite + React structure, data-driven JSON approach",
+      "timestamp": "2025-11-10T00:00:00Z"
+    }
+  ]
+}
